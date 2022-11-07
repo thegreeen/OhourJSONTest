@@ -2,23 +2,23 @@
     "Wave":[
         {
             "name": "Wave 1",
-            "lineup": "xxx7xxxx5xxxx7xxxxxxxx5xxxx5xxx"
+            "lineup": "#xxx7/xxxx5/xxxx7/xxxxxxxx5/xxxx5/xxx+"
         },
         {
             "name": "Wave 2",
-            "lineup": "xxxx5xxxx4xxxx3xxx6xxx7xxxxxxxxxx2xxxxx"
+            "lineup": "#xxxx5/xxxx4/xxxx3/xxx6/xxx7/xxxxxxxxxx2/xxxxx+"
         },
         {
             "name": "Wave 3",
-            "lineup": "3457796976"
+            "lineup": "#xxxxx5/xxxxx4/xxxxxx8/xxxxx6/xxxxx7/xxxxxxxxxxx9/xxxxxx+"
         },
         {
             "name": "Wave 4",
-            "lineup": "24567846783554"
+            "lineup": "#xxxxxx3/xxxxx2/xxxxxxxxxx7/xxxxx5/xxxxxx4/xxxxxxxxxxx+"
         },
         {
             "name": "Wave 5",
-            "lineup": "234545796090564"
+            "lineup": "#xxxxxxx3/xxxxx2/xxxxxxxxxxxxx7/xxxxx5/xxxxxx4/xxxxxxxxxxxxxx+"
         }
     ]
 }
