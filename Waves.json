@@ -1,0 +1,24 @@
+{
+    "Wave":[
+        {
+            "name": "Wave 1",
+            "lineup": "xxxxx5xxxxx5xxxxx5xxxxx5xxxxx5xxxxx5xxxxx5xxxxx5xxxxx5xxxxx"
+        },
+        {
+            "name": "Wave 2",
+            "lineup": "098765432"
+        },
+        {
+            "name": "Wave 3",
+            "lineup": "3457796976"
+        },
+        {
+            "name": "Wave 4",
+            "lineup": "24567846783554"
+        },
+        {
+            "name": "Wave 5",
+            "lineup": "234545796090564"
+        }
+    ]
+}
